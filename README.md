@@ -95,3 +95,12 @@ Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | 
 
 【発揮したバリュー】
 
+
+
+### 論文のレビュー
+(2021年)
+- (https://www.researchgate.net/profile/Himan-Abdollahpouri/publication/338516177_Multistakeholder_recommendation_Survey_and_research_directions/links/5e191200299bf10bc3a34635/Multistakeholder-recommendation-Survey-and-research-directions.pdf)
+- マルチステークホルダー推薦システムの分類と、その他アルゴリズムのレビュー
+- 
+
+
