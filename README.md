@@ -25,7 +25,7 @@ MySQL | PostgreSQL | Greenplum | Oracle | SQL Server | Redis | Memcached | Tokyo
 
 #### AWS
 
-VPC | S3 | CloudFront | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Beanstalk | EKS(Kubernetes) | Route53 | IAM | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Aurora | DynamoDB | ElastiCache(Redis|Memcached) | Kinesis | Kinesis firehose | Kinesis Video Streams | CloudFormation | CloudWatch | EventBridge | AWS Batch | Step Functions | 
+CLI| VPC | S3 | CloudFront | API Gateway | Lambda | ELB | EC2 | ECS | Fargate | Beanstalk | EKS(Kubernetes) | Route53 | IAM | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Aurora | DynamoDB | ElastiCache(Redis|Memcached) | Kinesis | Kinesis firehose | Kinesis Video Streams | CloudFormation | CloudWatch | EventBridge | AWS Batch | Step Functions | 
 
 
 #### 機械学習
