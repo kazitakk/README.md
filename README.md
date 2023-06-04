@@ -70,7 +70,6 @@ Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | 
 - ログ収集と分析基盤の構築
 ## 主な業務経歴
 
-
 ### GitHubを活用した機械学習サービスの開発【TypeScript/Firebase】(2022年)
 
 【プロジェクト概要】GitHubを活用してハンズオンで学習できる機械学習Q&Aサービスの開発
@@ -87,7 +86,6 @@ Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | 
 
 
 【発揮したバリュー】
-
 
 ### 動画配信サービスの開発【TypeScript/Firebase】(2022年)
 
@@ -108,7 +106,7 @@ Terraform | Spinnaker | Envoy | Docker | Xen | Jenkins | Fluentd | Capistrano | 
 
 ### 論文のレビュー
 (2021年)
-- (https://www.researchgate.net/profile/Himan-Abdollahpouri/publication/338516177_Multistakeholder_recommendation_Survey_and_research_directions/links/5e191200299bf10bc3a34635/Multistakeholder-recommendation-Survey-and-research-directions.pdf)
+-
 - マルチステークホルダー推薦システムの分類と、その他アルゴリズムのレビュー
 - 
 
